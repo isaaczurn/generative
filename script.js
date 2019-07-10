@@ -42,7 +42,7 @@ function draw() {
       var y = currpoint[1];
       vertex(x,y);
       console.log(x);
-      if ( Math.random() < 0.999) {
+      if ( Math.random() < 0.99) {
         seedPoints[j] = [x + (Math.random() + 5), y];
       } else {
         seedPoints[j] = [x - (Math.random() + 5), y];
