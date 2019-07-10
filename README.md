@@ -5,5 +5,7 @@ Linetrace is inspired by: [inconvergent](https://inconvergent.net/generative/lin
 Essentially traces one vertex based line with slight deviation from a 
 previously placed line. The slight deviations should create an interesting
 pattern once viewed as a whole.
-@auth: izurn
+[Horizontal growth](https://isaaczurn.github.io/generative/horizontal.html)
+
+[Vertical growth](https://isaaczurn.github.io/generative/vertical.html)
 
