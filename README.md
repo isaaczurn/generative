@@ -10,3 +10,9 @@ pattern once viewed as a whole.
 
 [Vertical growth](https://isaaczurn.github.io/generative/vertical.html)
 
+
+## Perlin Terrain
+Generates a random terrain map. Terrain type is determined via Perlin Noise; each value between 0-1 is mapped to values 0-4 which then determine terrain type.
+
+[Static Terrain](https://isaaczurn.github.io/generative/perlinTerrainGeneration/perlinTerrain.html)
+
